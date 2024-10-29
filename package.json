@@ -9,8 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chargebee/chargebee-js-react-wrapper": "^0.6.5",
+    "@emotion/cache": "^11.13.1",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.1.2",
+    "@mui/material-nextjs": "^6.1.2",
+    "next": "14.2.14",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.14"
+    "react-dom": "^18"
   }
 }
